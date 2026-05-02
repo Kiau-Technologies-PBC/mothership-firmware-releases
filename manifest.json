@@ -1,6 +1,10 @@
 {
   "lilygo": {
     "version": "1.3.4",
-    "url": ""
+    "url": "https://github.com/.../lilygo/kiau_mothership_lilygo_v1_3_4.bin"
+  },
+  "dfr1195": {
+    "version": "1.3.1",
+    "url": "https://github.com/.../dfr1195/kiau_mothership_dfr1195_v1_3_1.bin"
   }
 }
