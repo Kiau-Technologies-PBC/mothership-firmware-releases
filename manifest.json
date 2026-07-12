@@ -4,8 +4,8 @@
     "url": "https://github.com/Kiau-Technologies-PBC/mothership-firmware-releases/releases/download/v1.3.6-f03/kiau_mothership_lilygo_f03_v1_3_6.bin"
   },
   "lilygo_f01": {
-    "version": "1.3.6",
-    "url": "https://github.com/Kiau-Technologies-PBC/mothership-firmware-releases/releases/download/v1.3.6-f01/kiau_mothership_lilygo_f01_v1_3_6.bin"
+    "version": "1.3.9",
+    "url": "https://raw.githubusercontent.com/Kiau-Technologies-PBC/mothership-firmware-releases/main/lilygo/kiau_mothership_lilygo_f01_v1_3_9.bin"
   },
   "lilygo_f03": {
     "version": "1.3.6",
@@ -16,4 +16,3 @@
     "url": "https://github.com/Kiau-Technologies-PBC/mothership-firmware-releases/releases/download/v1.3.6-ghana/kiau_mothership_lilygo_ghana_v1_3_6.bin"
   }
 }
-
