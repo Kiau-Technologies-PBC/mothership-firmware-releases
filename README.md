@@ -16,6 +16,7 @@ structurally incapable of affecting another farm's deployment.
 | `lilygo`       | F03 — Black Roots (Tatum, KY) | Legacy generic key that F03's original firmware happens to read. Kept in sync with `lilygo_f03`. New F03 builds should standardize on `lilygo_f03`. |
 | `lilygo_f01`   | F01 — Milpa Caracol           | Independent of F03/Ghana — do not need to coordinate changes here with other keys. |
 | `lilygo_f03`   | F03 — Black Roots (Tatum, KY) | Primary key for F03 going forward. |
+| `lilygo_f04`   | F04 — OG Farms (Las Cruces, NM) | Added 2026-10-05. Device not yet flashed/deployed — this key exists so F04 self-updates to 1.3.12 (not 1.3.11) the first time it's flashed and connects. |
 | `lilygo_ghana` | F02 — Ghana                    | Deployment offline / hardware powered down on-site (professor who transported the hardware left it off; not a firmware issue). Ignore this key until the farm is physically back online — there is nothing here an OTA push can fix. |
 
 For *why* a given version exists — root cause, what broke, what the fix
